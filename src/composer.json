@@ -1,0 +1,8 @@
+{
+"name": "icuzad12/most",
+"autoload": {
+"psr-0" : {
+"most" : "src"
+}
+}
+}
