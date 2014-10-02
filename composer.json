@@ -1,8 +1,11 @@
 {
-"name": "icuzad12/most",
-"autoload": {
-"psr-0" : {
-"most" : "src"
-}
-}
+	"name": "icuzad12/most",
+	"autoload": {
+		
+		"classmap": [
+			"src/"
+			
+		]
+		
+	}
 }
